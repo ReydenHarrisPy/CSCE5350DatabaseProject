@@ -1,10 +1,12 @@
 # CSCE5350DatabaseProject
 
 --DB Setup/Instructions
+
 Download .sql file and execute query in MySQL
 
 
---Program Setup/Instructions \n
+--Program Setup/Instructions 
+
 install latest version of Python from Python.org
 
 run Command prompt as administrator
