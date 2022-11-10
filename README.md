@@ -15,6 +15,8 @@ py -m pip install mysql-connector-python
 
 py -m pip install pillow
 
+Please update line13 of program to match filepath for eagle.jpg when you download it. 
+
 cd to download location of python program
 
 py EagleBusinessPlatform.py
