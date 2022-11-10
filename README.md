@@ -16,4 +16,5 @@ py -m pip install mysql-connector-python
 py -m pip install pillow
 
 cd to download location of python program
+
 py EagleBusinessPlatform.py
