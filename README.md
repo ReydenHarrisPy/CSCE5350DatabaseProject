@@ -4,7 +4,7 @@
 Download .sql file and execute query in MySQL
 
 
---Program Setup/Instructions
+--Program Setup/Instructions \n
 install latest version of Python from Python.org
 
 run Command prompt as administrator
