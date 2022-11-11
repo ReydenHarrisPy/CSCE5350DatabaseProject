@@ -3,18 +3,28 @@
 --DB Setup/Instructions
 
 Download .sql file and execute query in MySQL
+
+
+
+PYCHARM Setup
+
 https://www.jetbrains.com/pycharm/download/#section=windows
+
 Create new project and upload .py file.
 
 Install pillow packages and mysql-connector-python packages
+
 File-Settings-Project:"ProjectName"-Python Interpreter
+
 + Add the packages and install
+
 Please update line13 of program to match filepath for eagle.jpg when you download it.
 
+run the program
 
 
 
---Program Setup/Instructions 
+--Program Setup/Instructions for local system
 
 install latest version of Python from Python.org
 
